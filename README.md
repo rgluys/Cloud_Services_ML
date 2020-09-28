@@ -1,4 +1,9 @@
 <div style="page-break-after: always;"></div>
+---
+## Overview
+---
+
+Public cloud resources guide for GCP, AWS, Azure, and IBM Watson. This includes high-level architecture for Machine Learning projects and links to the resources necessary to successfully deploy a machine learning project quickly and effectively for the right use cases.
 
 ---
 ## Google Cloud Platform

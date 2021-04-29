@@ -13,7 +13,7 @@ Public cloud resources guide for GCP, AWS, Azure, and IBM Watson. This includes 
 ***High level design of the GCP Architecture from Google Cloud Doc followed by GCP resources and best practices.***
 
 <div align="center"> 
-<img src="https://cloud.google.com/solutions/images/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build-3-tfx-google-cloud.svg" width="750"/>
+<img src="https://cloud.google.com/architecture/images/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build-3-tfx-google-cloud.svg" width="750"/>
 </div>
 
 ##### <div align="center">*⇧ [TFX(Tensorflow Extended)-based ML system on Google Cloud](https://cloud.google.com/solutions/machine-learning/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)  ⇧*</div>
